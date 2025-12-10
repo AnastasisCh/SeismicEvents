@@ -1,0 +1,54 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "SeismicEventsFireEvents",
+    "version": "1.0"
+  },
+  "paths": {
+    "/FindSeismicEventRaw/{flynnRegion}": {
+      "get": {
+        "tags": [
+          "FindSeismicEventRaw"
+        ],
+        "parameters": [
+          {
+            "name": "flynnRegion",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/FindSeismicEvents/{flynnRegion}": {
+      "get": {
+        "tags": [
+          "FindSeismicEvents"
+        ],
+        "parameters": [
+          {
+            "name": "flynnRegion",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

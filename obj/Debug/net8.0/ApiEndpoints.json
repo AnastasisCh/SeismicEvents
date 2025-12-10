@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "SeismicEventsFireEvents.Controllers.FindSeismicEventRawController",
+    "Method": "FindSeismicEvents",
+    "RelativePath": "FindSeismicEventRaw/{flynnRegion}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flynnRegion",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SeismicEventsFireEvents.Controllers.FindSeismicEventsController",
+    "Method": "FindSeismicEvents",
+    "RelativePath": "FindSeismicEvents/{flynnRegion}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flynnRegion",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
