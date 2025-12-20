@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SZSolXFEBUUvxthT5YOmXvyf6LB0jkbhvSTNHmqeNds=",
+  "Source": "SeismicEventsFireEvents",
+  "BasePath": "_content/SeismicEventsFireEvents",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
