@@ -149,8 +149,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 441,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -224,7 +228,7 @@
               "RelativeDocumentMoniker": "GreekFireSignal\\Controllers\\FindSeismicEventsController.cs",
               "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs*",
               "RelativeToolTip": "GreekFireSignal\\Controllers\\FindSeismicEventsController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAACQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T12:08:04.138Z",
               "EditorCaption": ""
@@ -235,8 +239,8 @@
               "Title": "FindSeismicEventRawController.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
               "RelativeDocumentMoniker": "GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs*",
-              "RelativeToolTip": "GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs*",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
+              "RelativeToolTip": "GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T18:35:52.227Z",
