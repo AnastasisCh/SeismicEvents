@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeismicEventsFireEvents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+022f295969a3aa9fc0d8f7dc993f481e3ca0e646")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeismicEventsFireEvents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeismicEventsFireEvents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

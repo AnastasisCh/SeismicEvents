@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "SZSolXFEBUUvxthT5YOmXvyf6LB0jkbhvSTNHmqeNds=",
-  "Source": "SeismicEventsFireEvents",
-  "BasePath": "_content/SeismicEventsFireEvents",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"uEHJw/6MphaDlMvo2T3YK8Jox4xvMVMpzfIo60fAn2Q=","Source":"SeismicEventsFireEvents","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

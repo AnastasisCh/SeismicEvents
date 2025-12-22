@@ -1,109 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\",
+  "WorkspaceRootPath": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\controllers\\findseismiceventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\controllers\\findseismiceventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\controllers\\findseismiceventrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\controllers\\findseismiceventrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\controllers\\findseismiceventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\controllers\\findseismiceventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\services\\flushseismicinmemorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\services\\flushseismicinmemorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\models\\seismicproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\models\\seismicproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\services\\pollingnasafirms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\services\\pollingnasafirms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\models\\seismiccompressedproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\models\\seismiccompressedproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\utils\\seismiceventsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\utils\\seismiceventsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\seismiceventsfireevents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\seismiceventsfireevents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\data\\seismiceventsfireeventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\data\\seismiceventsfireeventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\controllers\\findseismiceventrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\controllers\\findseismiceventrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\services\\seismicportalclientws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\services\\seismicportalclientws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\data\\seismiceventsfireeventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\data\\seismiceventsfireeventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\testingapproaches\\seedwesternturkeydata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\testingapproaches\\seedwesternturkeydata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\dtos\\inmemoryflushqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\dtos\\inmemoryflushqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\testingapproaches\\seedwesternturkeydata\\featuresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\testingapproaches\\seedwesternturkeydata\\featuresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\dtos\\satelitescandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\dtos\\satelitescandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\dtos\\seismicproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\dtos\\seismicproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\testingapproaches\\seedwesternturkeydata\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\testingapproaches\\seedwesternturkeydata\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\models\\seismiccompressedproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\models\\seismiccompressedproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\testingapproaches\\seedwesternturkeydata\\westernturkeydata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\testingapproaches\\seedwesternturkeydata\\westernturkeydata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\dtos\\inmemoryflushqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\dtos\\inmemoryflushqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\migrations\\20251210004206_seedtesttabledeclaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\migrations\\20251210004206_seedtesttabledeclaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\dtos\\seismicgeometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\dtos\\seismicgeometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\dtos\\seismicportalmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\dtos\\seismicportalmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\dtos\\seismicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\dtos\\seismicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\migrations\\20251124224220_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\migrations\\20251124224220_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\enums\\flinnengdahlregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\enums\\flinnengdahlregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -112,34 +51,100 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\migrations\\20251124224407_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\migrations\\20251124224407_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\migrations\\seismiceventsfireeventsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\migrations\\seismiceventsfireeventsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\seismiceventsfireevents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\seismiceventsfireevents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|c:\\users\\anast\\source\\repos\\greekfiresignal\\greekfiresignal\\seismiceventsfireevents.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|GreekFireSignal\\SeismicEventsFireEvents.csproj|solutionrelative:greekfiresignal\\seismiceventsfireevents.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\Downloads\\earthquake.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\Downloads\\poll.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreekFireSignal\\Models\\SeismicMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreekFireSignal\\Models\\SeismicType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Utils\\SeismicEventsUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\PollingNASAFirms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\SeismicPortalClientWS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SateliteScanDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicProperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicCompressedProperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicGeometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicPortalMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -149,447 +154,15 @@
       "DocumentGroups": [
         {
           "DockedHeight": 441,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 14,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SeismicEventsUtils.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
-              "RelativeToolTip": "GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwEQAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T00:46:35.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PollingNASAFirms.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\PollingNASAFirms.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Services\\PollingNASAFirms.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\PollingNASAFirms.cs",
-              "RelativeToolTip": "GreekFireSignal\\Services\\PollingNASAFirms.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T15:49:05.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\appsettings.json",
-              "RelativeDocumentMoniker": "GreekFireSignal\\appsettings.json",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\appsettings.json",
-              "RelativeToolTip": "GreekFireSignal\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-21T16:43:24.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SeismicEventsFireEventsDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
-              "RelativeToolTip": "GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T16:59:34.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FlushSeismicInMemoryTable.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
-              "RelativeToolTip": "GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T00:40:00.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FindSeismicEventsController.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Controllers\\FindSeismicEventsController.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs*",
-              "RelativeToolTip": "GreekFireSignal\\Controllers\\FindSeismicEventsController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T12:08:04.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FindSeismicEventRawController.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs*",
-              "RelativeToolTip": "GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T18:35:52.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SeismicPortalClientWS.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
-              "RelativeToolTip": "GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T18:33:13.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FeaturesDTO.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
-              "RelativeToolTip": "GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T00:58:18.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
-              "RelativeToolTip": "GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T23:48:00.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SateliteScanDTO.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
-              "RelativeToolTip": "GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T20:16:13.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": ".gitignore.txt",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\.gitignore.txt",
-              "RelativeDocumentMoniker": "GreekFireSignal\\.gitignore.txt",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\.gitignore.txt",
-              "RelativeToolTip": "GreekFireSignal\\.gitignore.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-10T23:07:58.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TypeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
-              "RelativeToolTip": "GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T23:42:52.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Program.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Program.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Program.cs",
-              "RelativeToolTip": "GreekFireSignal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T16:24:51.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GreekFireSignal\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-10T19:07:09.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SeismicProperties.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicProperties.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\DTOs\\SeismicProperties.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicProperties.cs",
-              "RelativeToolTip": "GreekFireSignal\\DTOs\\SeismicProperties.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:16:54.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WesternTurkeyData.json",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
-              "RelativeDocumentMoniker": "GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
-              "RelativeToolTip": "GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-09T23:42:14.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SeismicCompressedProperties.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
-              "RelativeToolTip": "GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T23:24:18.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InMemoryFlushQueue.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
-              "RelativeToolTip": "GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T19:59:40.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20251210004206_SeedTestTableDeclaration.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
-              "RelativeToolTip": "GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T00:44:15.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SeismicGeometry.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicGeometry.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\DTOs\\SeismicGeometry.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicGeometry.cs",
-              "RelativeToolTip": "GreekFireSignal\\DTOs\\SeismicGeometry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:10:20.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SeismicPortalMessage.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
-              "RelativeToolTip": "GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:16:07.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SeismicData.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicData.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\DTOs\\SeismicData.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicData.cs",
-              "RelativeToolTip": "GreekFireSignal\\DTOs\\SeismicData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:16:37.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
-              "ToolTip": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAApwDsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T02:26:50.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20251124224220_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
-              "RelativeToolTip": "GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T22:42:21.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BackgroundService.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
-              "ToolTip": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBMAAAACAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T23:04:11.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FlinnEngdahlRegion.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
-              "RelativeToolTip": "GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwB4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T19:10:06.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Host.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
-              "ToolTip": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAgwJ4AAAAFAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T23:04:11.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20251124224407_SecondCreate.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
-              "RelativeToolTip": "GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T22:44:07.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SeismicEventsFireEventsDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
-              "RelativeToolTip": "GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T22:44:28.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "SeismicEventsFireEvents.csproj",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
-              "RelativeDocumentMoniker": "GreekFireSignal\\SeismicEventsFireEvents.csproj",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
-              "RelativeToolTip": "GreekFireSignal\\SeismicEventsFireEvents.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-07T16:32:17.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "SeismicEventsFireEvents",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
-              "RelativeDocumentMoniker": "GreekFireSignal\\SeismicEventsFireEvents.csproj",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
-              "RelativeToolTip": "GreekFireSignal\\SeismicEventsFireEvents.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-18T23:29:44.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "SeismicMessage.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Models\\SeismicMessage.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs",
-              "RelativeToolTip": "GreekFireSignal\\Models\\SeismicMessage.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:35:40.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "SeismicType.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs",
-              "RelativeDocumentMoniker": "GreekFireSignal\\Models\\SeismicType.cs",
-              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs",
-              "RelativeToolTip": "GreekFireSignal\\Models\\SeismicType.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:50:07.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "earthquake.json",
-              "DocumentMoniker": "C:\\Users\\anast\\Downloads\\earthquake.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\earthquake.json",
-              "ToolTip": "C:\\Users\\anast\\Downloads\\earthquake.json",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\earthquake.json",
-              "ViewState": "AgIAAEsAAAAAAAAAACBjwFQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-28T17:19:32.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "poll.json",
-              "DocumentMoniker": "C:\\Users\\anast\\Downloads\\poll.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\poll.json",
-              "ToolTip": "C:\\Users\\anast\\Downloads\\poll.json",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\poll.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-28T17:19:23.796Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -598,10 +171,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -626,6 +195,512 @@
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindSeismicEventsController.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventsController.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Controllers\\FindSeismicEventsController.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventsController.cs",
+              "RelativeToolTip": "SeismicEvents\\Controllers\\FindSeismicEventsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T22:22:21.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeismicCompressedProperties.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Models\\SeismicCompressedProperties.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Models\\SeismicCompressedProperties.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Models\\SeismicCompressedProperties.cs",
+              "RelativeToolTip": "SeismicEvents\\Models\\SeismicCompressedProperties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:40:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeismicEventsFireEvents.csproj",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\SeismicEventsFireEvents.csproj",
+              "RelativeDocumentMoniker": "SeismicEvents\\SeismicEventsFireEvents.csproj",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\SeismicEventsFireEvents.csproj",
+              "RelativeToolTip": "SeismicEvents\\SeismicEventsFireEvents.csproj",
+              "ViewState": "AgIAAAAAAABAA0YjAiQiwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T18:13:52.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FindSeismicEventRawController.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
+              "RelativeToolTip": "SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:45:28.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Program.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Program.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Program.cs",
+              "RelativeToolTip": "SeismicEvents\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:45:44.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeismicProperties.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Models\\SeismicProperties.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Models\\SeismicProperties.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Models\\SeismicProperties.cs",
+              "RelativeToolTip": "SeismicEvents\\Models\\SeismicProperties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T20:54:29.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\appsettings.json",
+              "RelativeDocumentMoniker": "SeismicEvents\\appsettings.json",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\appsettings.json",
+              "RelativeToolTip": "SeismicEvents\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T17:01:31.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeismicEventsFireEventsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Data\\SeismicEventsFireEventsDbContext.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Data\\SeismicEventsFireEventsDbContext.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Data\\SeismicEventsFireEventsDbContext.cs",
+              "RelativeToolTip": "SeismicEvents\\Data\\SeismicEventsFireEventsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:51:56.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryFlushQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\DTOs\\InMemoryFlushQueue.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\DTOs\\InMemoryFlushQueue.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\DTOs\\InMemoryFlushQueue.cs",
+              "RelativeToolTip": "SeismicEvents\\DTOs\\InMemoryFlushQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:08:34.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PollingNASAFirms.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\PollingNASAFirms.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\PollingNASAFirms.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\PollingNASAFirms.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\PollingNASAFirms.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T15:49:05.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\appsettings.json",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T16:43:24.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeismicEventsFireEventsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:59:34.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FlushSeismicInMemoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T00:40:00.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FindSeismicEventsController.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T12:08:04.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SeismicEventsUtils.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T00:46:35.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FindSeismicEventRawController.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:35:52.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SeismicPortalClientWS.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:33:13.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeaturesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T00:58:18.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:48:00.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SateliteScanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:16:13.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\.gitignore.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\.gitignore.txt",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\.gitignore.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\.gitignore.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-10T23:07:58.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:42:52.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Program.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:24:51.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-10T19:07:09.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SeismicProperties.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicProperties.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicProperties.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicProperties.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicProperties.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:16:54.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WesternTurkeyData.json",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T23:42:14.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SeismicCompressedProperties.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:24:18.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InMemoryFlushQueue.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:59:40.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251210004206_SeedTestTableDeclaration.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T00:44:15.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SeismicGeometry.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicGeometry.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicGeometry.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicGeometry.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicGeometry.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:10:20.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SeismicPortalMessage.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:16:07.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SeismicData.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicData.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T13:16:37.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
+              "ToolTip": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:26:50.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251124224220_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:42:21.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
+              "ToolTip": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:04:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FlinnEngdahlRegion.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:10:06.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Host.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
+              "ToolTip": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:04:11.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20251124224407_SecondCreate.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:44:07.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SeismicEventsFireEventsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:44:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SeismicEventsFireEvents.csproj",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-07T16:32:17.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SeismicEventsFireEvents.csproj",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T23:29:44.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SeismicMessage.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:35:40.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeismicType.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs",
+              "ToolTip": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:50:07.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "earthquake.json",
+              "DocumentMoniker": "C:\\Users\\anast\\Downloads\\earthquake.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\Downloads\\earthquake.json",
+              "ToolTip": "C:\\Users\\anast\\Downloads\\earthquake.json",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\Downloads\\earthquake.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T17:19:32.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "poll.json",
+              "DocumentMoniker": "C:\\Users\\anast\\Downloads\\poll.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\Downloads\\poll.json",
+              "ToolTip": "C:\\Users\\anast\\Downloads\\poll.json",
+              "RelativeToolTip": "..\\..\\..\\..\\anast\\Downloads\\poll.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T17:19:23.796Z"
             }
           ]
         },
