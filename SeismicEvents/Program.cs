@@ -15,25 +15,27 @@ namespace SeismicEventsFireEvents
             // Add services to the container.
 
             //builder.Services.AddHostedService<PollingNASAFirms>();
-            //builder.Services.AddHostedService<SeedData>();
+            // builder.Services.AddHostedService<SeedData>();
             builder.Services.AddHostedService<SeismicPortalClientWS>();
             builder.Services.AddHostedService<FlushSeismicInMemoryTable>();
 
             builder.Services.AddControllers();
             builder.Services.AddDbContext<SeismicEventsFireEventsDbContext>(options =>
-            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            options.UseSqlite(builder.Configuration.GetConnectionString("SQLLiteConnection")));
+
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            //builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
+            //if (app.Environment.IsDevelopment())
+            //{
+            //    app.UseSwagger();
+            //    app.UseSwaggerUI();
+            //}
 
             app.UseHttpsRedirection();
 
