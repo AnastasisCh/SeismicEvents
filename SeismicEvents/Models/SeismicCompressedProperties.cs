@@ -6,6 +6,7 @@ namespace SeismicEventsFireEvents.Models
     [MessagePackObject]
     public class SeismicCompressedProperties
     {
+        
         [Key(0)]
         public int Id { get; set; }
 
@@ -64,5 +65,7 @@ namespace SeismicEventsFireEvents.Models
 
         [Key(16)]
         public byte[] CompressedEventProperties { get; set; }
+        [Key(17)]
+        public string ReferenceID { get; set; }
     }
 }

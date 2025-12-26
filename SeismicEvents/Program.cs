@@ -22,6 +22,7 @@ namespace SeismicEventsFireEvents
             builder.Services.AddControllers();
             builder.Services.AddDbContext<SeismicEventsFireEventsDbContext>(options =>
             options.UseSqlite(builder.Configuration.GetConnectionString("SQLLiteConnection")));
+            builder.Services.AddScoped<SeismicEventsDapperDbContext>();
 
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

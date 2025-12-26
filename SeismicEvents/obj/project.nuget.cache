@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0nmPfMyXvqE=",
+  "dgSpecHash": "5CV/oAc0CgE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\SeismicEventsFireEvents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anastasis Chatzis\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Anastasis Chatzis\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Anastasis Chatzis\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\Anastasis Chatzis\\.nuget\\packages\\efcore.bulkextensions\\9.0.2\\efcore.bulkextensions.9.0.2.nupkg.sha512",
     "C:\\Users\\Anastasis Chatzis\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Anastasis Chatzis\\.nuget\\packages\\messagepack\\3.1.4\\messagepack.3.1.4.nupkg.sha512",
