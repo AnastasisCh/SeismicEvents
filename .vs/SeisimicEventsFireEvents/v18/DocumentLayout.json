@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\controllers\\findseismiceventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\controllers\\findseismiceventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\controllers\\findseismiceventrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\controllers\\findseismiceventrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\services\\flushseismicinmemorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\services\\flushseismicinmemorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\services\\seismicportalclientws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\services\\seismicportalclientws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\models\\seismiccompressedproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\seismiceventsfireevents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\controllers\\findseismiceventrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\controllers\\findseismiceventrawcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\controllers\\findseismiceventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\controllers\\findseismiceventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\data\\seismiceventsdapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\data\\seismiceventsdapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|solutionrelative:seismicevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCB3AF4A-AD99-4459-8333-55121CFD93BC}|SeismicEvents\\SeismicEventsFireEvents.csproj|c:\\users\\anastasis chatzis\\source\\repos\\seismicevents\\seismicevents\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -170,21 +174,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 441,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FlushSeismicInMemoryTable.cs",
-              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Services\\FlushSeismicInMemoryTable.cs",
-              "RelativeDocumentMoniker": "SeismicEvents\\Services\\FlushSeismicInMemoryTable.cs",
-              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Services\\FlushSeismicInMemoryTable.cs",
-              "RelativeToolTip": "SeismicEvents\\Services\\FlushSeismicInMemoryTable.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAG8AAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T23:04:05.615Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -219,33 +210,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SeismicPortalMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\DTOs\\SeismicPortalMessage.cs",
-              "RelativeDocumentMoniker": "SeismicEvents\\DTOs\\SeismicPortalMessage.cs",
-              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\DTOs\\SeismicPortalMessage.cs",
-              "RelativeToolTip": "SeismicEvents\\DTOs\\SeismicPortalMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "SeismicPortalClientWS.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Services\\SeismicPortalClientWS.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Services\\SeismicPortalClientWS.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Services\\SeismicPortalClientWS.cs",
+              "RelativeToolTip": "SeismicEvents\\Services\\SeismicPortalClientWS.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T10:55:47.56Z",
+              "WhenOpened": "2025-12-26T13:37:16.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "FlushSeismicInMemoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Services\\FlushSeismicInMemoryTable.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Services\\FlushSeismicInMemoryTable.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Services\\FlushSeismicInMemoryTable.cs",
+              "RelativeToolTip": "SeismicEvents\\Services\\FlushSeismicInMemoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T23:04:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FindSeismicEventsController.cs",
               "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventsController.cs",
               "RelativeDocumentMoniker": "SeismicEvents\\Controllers\\FindSeismicEventsController.cs",
               "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventsController.cs",
               "RelativeToolTip": "SeismicEvents\\Controllers\\FindSeismicEventsController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA8wB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T22:22:21.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\appsettings.json",
               "RelativeDocumentMoniker": "SeismicEvents\\appsettings.json",
@@ -257,7 +261,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Program.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Program.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Program.cs",
+              "RelativeToolTip": "SeismicEvents\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:45:44.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FindSeismicEventRawController.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
+              "RelativeToolTip": "SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:45:28.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeismicPortalMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\DTOs\\SeismicPortalMessage.cs",
+              "RelativeDocumentMoniker": "SeismicEvents\\DTOs\\SeismicPortalMessage.cs",
+              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\DTOs\\SeismicPortalMessage.cs",
+              "RelativeToolTip": "SeismicEvents\\DTOs\\SeismicPortalMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:55:47.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SeismicCompressedProperties.cs",
               "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Models\\SeismicCompressedProperties.cs",
               "RelativeDocumentMoniker": "SeismicEvents\\Models\\SeismicCompressedProperties.cs",
@@ -265,12 +307,11 @@
               "RelativeToolTip": "SeismicEvents\\Models\\SeismicCompressedProperties.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:40:02.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:40:02.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SeismicEventsFireEvents.csproj",
               "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\SeismicEventsFireEvents.csproj",
               "RelativeDocumentMoniker": "SeismicEvents\\SeismicEventsFireEvents.csproj",
@@ -278,12 +319,11 @@
               "RelativeToolTip": "SeismicEvents\\SeismicEventsFireEvents.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-21T18:13:52.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:13:52.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SeismicProperties.cs",
               "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Models\\SeismicProperties.cs",
               "RelativeDocumentMoniker": "SeismicEvents\\Models\\SeismicProperties.cs",
@@ -295,20 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FindSeismicEventRawController.cs",
-              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
-              "RelativeDocumentMoniker": "SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
-              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
-              "RelativeToolTip": "SeismicEvents\\Controllers\\FindSeismicEventRawController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T16:45:28.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SeismicEventsDapperDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Data\\SeismicEventsDapperDbContext.cs",
               "RelativeDocumentMoniker": "SeismicEvents\\Data\\SeismicEventsDapperDbContext.cs",
@@ -316,21 +343,7 @@
               "RelativeToolTip": "SeismicEvents\\Data\\SeismicEventsDapperDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:31:01.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Program.cs",
-              "RelativeDocumentMoniker": "SeismicEvents\\Program.cs",
-              "ToolTip": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Program.cs",
-              "RelativeToolTip": "SeismicEvents\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T16:45:44.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T22:31:01.196Z"
             },
             {
               "$type": "Bookmark",
@@ -338,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SateliteScanDTO.cs",
               "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\DTOs\\SateliteScanDTO.cs",
               "RelativeDocumentMoniker": "SeismicEvents\\DTOs\\SateliteScanDTO.cs",
@@ -350,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SeismicEventsFireEventsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\Data\\SeismicEventsFireEventsDbContext.cs",
               "RelativeDocumentMoniker": "SeismicEvents\\Data\\SeismicEventsFireEventsDbContext.cs",
@@ -362,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "InMemoryFlushQueue.cs",
               "DocumentMoniker": "C:\\Users\\Anastasis Chatzis\\source\\repos\\SeismicEvents\\SeismicEvents\\DTOs\\InMemoryFlushQueue.cs",
               "RelativeDocumentMoniker": "SeismicEvents\\DTOs\\InMemoryFlushQueue.cs",
@@ -374,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "PollingNASAFirms.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\PollingNASAFirms.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\PollingNASAFirms.cs",
@@ -385,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\appsettings.json",
@@ -396,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "SeismicEventsFireEventsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Data\\SeismicEventsFireEventsDbContext.cs",
@@ -407,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "FlushSeismicInMemoryTable.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\FlushSeismicInMemoryTable.cs",
@@ -418,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FindSeismicEventsController.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventsController.cs",
@@ -429,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SeismicEventsUtils.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Utils\\SeismicEventsUtils.cs",
@@ -440,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "FindSeismicEventRawController.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Controllers\\FindSeismicEventRawController.cs",
@@ -451,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "SeismicPortalClientWS.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Services\\SeismicPortalClientWS.cs",
@@ -462,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "FeaturesDTO.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\FeaturesDTO.cs",
@@ -473,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\SeedData.cs",
@@ -484,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "SateliteScanDTO.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SateliteScanDTO.cs",
@@ -495,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": ".gitignore.txt",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\.gitignore.txt",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\.gitignore.txt",
@@ -506,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "TypeDTO.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\TypeDTO.cs",
@@ -517,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Program.cs",
@@ -528,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Properties\\launchSettings.json",
@@ -539,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "SeismicProperties.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicProperties.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicProperties.cs",
@@ -550,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "WesternTurkeyData.json",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\TestingApproaches\\SeedWesternTurkeyData\\WesternTurkeyData.json",
@@ -561,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "SeismicCompressedProperties.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicCompressedProperties.cs",
@@ -572,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "InMemoryFlushQueue.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\InMemoryFlushQueue.cs",
@@ -583,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "20251210004206_SeedTestTableDeclaration.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251210004206_SeedTestTableDeclaration.cs",
@@ -594,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "SeismicGeometry.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicGeometry.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicGeometry.cs",
@@ -605,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "SeismicPortalMessage.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicPortalMessage.cs",
@@ -616,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "SeismicData.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicData.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\DTOs\\SeismicData.cs",
@@ -627,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
               "DocumentMoniker": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\c8d306137e053d5890fdb7c5c9ba573352cb0ae2\\Formatters.MessagePack.GeneratedMessagePackResolver.SeismicEventsFireEvents.DTOs.SeismicPropertiesFormatter.g.cs",
@@ -638,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "20251124224220_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224220_InitialCreate.cs",
@@ -649,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "BackgroundService.cs",
               "DocumentMoniker": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\4a3d6f87c6d80a124c1033f82d7a3059519a5d78254c70472136a679adcd41fb\\BackgroundService.cs",
@@ -660,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "FlinnEngdahlRegion.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Enums\\FlinnEngdahlRegion.cs",
@@ -671,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Host.cs",
               "DocumentMoniker": "C:\\Users\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\AppData\\Local\\Temp\\.vsdbgsrc\\757763f567e20275e06c8ca7e078d413e5ada2afaedf9384b44b19447a53cb13\\Host.cs",
@@ -682,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "20251124224407_SecondCreate.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\20251124224407_SecondCreate.cs",
@@ -693,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "SeismicEventsFireEventsDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Migrations\\SeismicEventsFireEventsDbContextModelSnapshot.cs",
@@ -704,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "SeismicEventsFireEvents.csproj",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
@@ -715,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "SeismicEventsFireEvents.csproj",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\SeismicEventsFireEvents.csproj",
@@ -726,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "SeismicMessage.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicMessage.cs",
@@ -737,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "SeismicType.cs",
               "DocumentMoniker": "C:\\Users\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\source\\repos\\GreekFireSignal\\GreekFireSignal\\Models\\SeismicType.cs",
@@ -748,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "earthquake.json",
               "DocumentMoniker": "C:\\Users\\anast\\Downloads\\earthquake.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\Downloads\\earthquake.json",
@@ -759,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "poll.json",
               "DocumentMoniker": "C:\\Users\\anast\\Downloads\\poll.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\anast\\Downloads\\poll.json",
