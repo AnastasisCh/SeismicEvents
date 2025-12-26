@@ -1,3 +1,8 @@
 # Ignore sensitive configuration files
-.vs/
+/SeismicEvents/bin
+/SeismicEvents/.vscode
+/SeismicEvents/obj
+/SeismicEvents/.vs
+/.vs
+
 
