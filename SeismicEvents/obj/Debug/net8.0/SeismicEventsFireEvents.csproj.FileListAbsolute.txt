@@ -203,3 +203,4 @@ C:\Users\Anastasis Chatzis\source\repos\SeismicEvents\SeismicEvents\obj\Debug\ne
 C:\Users\Anastasis Chatzis\source\repos\SeismicEvents\SeismicEvents\obj\Debug\net8.0\SeismicEventsFireEvents.pdb
 C:\Users\Anastasis Chatzis\source\repos\SeismicEvents\SeismicEvents\obj\Debug\net8.0\SeismicEventsFireEvents.genruntimeconfig.cache
 C:\Users\Anastasis Chatzis\source\repos\SeismicEvents\SeismicEvents\obj\Debug\net8.0\ref\SeismicEventsFireEvents.dll
+C:\Users\Anastasis Chatzis\source\repos\SeismicEvents\SeismicEvents\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
