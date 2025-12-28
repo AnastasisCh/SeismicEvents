@@ -66,6 +66,7 @@ namespace SeismicEventsFireEvents.Utils
         }
         public static IEnumerable<DTOs.SeismicProperties> DecompressSeismicChunks(IEnumerable<byte[]> compressedPropertyChunks)
         {
+            Console.Write("Testing to see if this is called immdediately");
             foreach (var compressedChunk in compressedPropertyChunks)
             {
                 // foreach chunk , dcompress and deserialize ,gzipSteam starts at byte 0 by default
