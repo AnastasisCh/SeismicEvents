@@ -1,0 +1,6 @@
+# Ignore sensitive configuration files
+.vs/
+obj/
+bin/
+.vscode/
+
