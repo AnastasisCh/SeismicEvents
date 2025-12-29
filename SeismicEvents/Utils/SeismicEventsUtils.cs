@@ -68,7 +68,7 @@ namespace SeismicEventsFireEvents.Utils
         {
             foreach (var compressedChunk in compressedPropertyChunks)
             {
-                // foreach chunk , dcompress and deserialize ,gzipSteam starts at byte 0 by default
+                // foreach chunk , decompress and deserialize ,gzipSteam starts at byte 0 by default
                 // attention thats PER CHUNK , not per event in each chunk
                 using var gzip = new GZipStream(new MemoryStream(compressedChunk), CompressionMode.Decompress);
                 DTOs.SeismicProperties[] arrayOfSeismicPropertiesPerChunk = MessagePackSerializer.Deserialize<DTOs.SeismicProperties[]>(gzip);
@@ -76,7 +76,6 @@ namespace SeismicEventsFireEvents.Utils
                 {
                     //only one event in memory at a time (mem efficient for serialization later on)
                     yield return seismicProperty;
-                    int x = 1;
                 }
                
             }
