@@ -76,6 +76,7 @@ namespace SeismicEventsFireEvents.Utils
                 {
                     //only one event in memory at a time (mem efficient for serialization later on)
                     yield return seismicProperty;
+                    int x = 1;
                 }
                
             }
